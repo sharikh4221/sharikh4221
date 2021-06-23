@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sharikh4221
 - 👀 I’m interested in electronics,coding and iot
-- 🌱 I’m currently learning electronics and communications digree
+- 🌱 I’m currently learning electronics and communications degree
 - 💞️ I’m looking to collaborate on home automation,industrial automation and robotics
 - 📫 How to reach me sharikhjuby@gmail.com(personal mail)
 
